@@ -18,3 +18,11 @@ Roadmap
 [ ] High level API (simplified script language to build game)
 
 [ ] Distribution tools (for easy distribution on all systems)
+
+
+Dependency
+==========
+
+Qt4
+
+PyQt4
