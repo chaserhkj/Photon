@@ -8,8 +8,13 @@ Roadmap
 =======
 
 [ ] Common game logic (interacting and user choices)
+
 [ ] Basic display (movement and acting)
+
 [ ] RPG engine
+
 [ ] Electronic Novel engine
+
 [ ] High level API (simplified script language to build game)
+
 [ ] Distribution tools (for easy distribution on all systems)
