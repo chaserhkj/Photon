@@ -1,4 +1,4 @@
-**Caution** Deprecation **Caution**
+Deprecation
 ===========
 Due to the active development of Ren'py project (http://www.renpy.org), we feel that the current
 goal of this project is duplicated, so we decided to deprecate it.
