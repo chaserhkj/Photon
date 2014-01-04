@@ -1,7 +1,7 @@
 Photon
 ======
 
-Photon is a 2D game engine written mainly in python together with Qt.
+Photon is a 2D game engine written mainly in python together with Qt.(Maybe pygame or sdl?)
 
 
 Roadmap
@@ -9,9 +9,9 @@ Roadmap
 
 [ ] Basic Library
 
-- [ ] Common game logic (interacting and user choices)
+- [ ] Common game logic (interacting, user choices, saving, resuming, etc.)
 
-- [ ] Basic display (movement and acting)
+- [ ] Basic display (movement, acting, game menu system, etc.)
 
 [ ] Basic Level APIs
 
@@ -35,6 +35,7 @@ Qt4
 
 PyQt4
 
+(pygame, sdl?)
 
 Contribution
 ============
