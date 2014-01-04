@@ -1,3 +1,15 @@
+**Caution** Deprecation **Caution**
+===========
+Due to the active development of Ren'py project (http://www.renpy.org), we feel that the current
+goal of this project is duplicated, so we decided to deprecate it.
+
+Yet this porject may not be dead, we would discuss about this and switch the goal of this
+project to some other types of game engine or game library.
+
+The goal and status may be updated recently in the future.
+
+
+
 Photon
 ======
 
